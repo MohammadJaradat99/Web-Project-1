@@ -1,0 +1,69 @@
+h1 {
+  
+    padding: 10px;
+    color: rgb(255, 0, 0);
+}
+
+h2{
+    color: black;
+    padding: 10px;
+}
+
+body{
+    background-color: rgb(146, 99, 84);
+    padding-bottom: 10px;
+}
+
+header{
+    color: 10px;
+
+}
+
+form{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+table{
+    padding: 10px;
+    padding-bottom: 10px;
+    padding-bottom: 5px;
+    color: rgb(255, 253, 253);
+}
+
+p{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal,italic;
+
+}
+
+button{
+    padding: 5px;
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+input{
+    color: red;
+    padding: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+footer{
+    color: white;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol{
+    color: rgb(124, 255, 2);
+}
+
+ul{
+    color: rgb(124, 255, 2);
+}
+
+img{
+    padding: 10px;
+}
